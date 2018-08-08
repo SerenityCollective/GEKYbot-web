@@ -64,8 +64,7 @@ div
   background-repeat: none;
   background-width: 20%;
   background-height: 100%;
-  text-align: left;
-  height: 100%;
+  float: left;
 }
 
 a

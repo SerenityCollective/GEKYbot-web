@@ -64,7 +64,7 @@ div
   background-repeat: none;
   background-width: 20%;
   background-height: 100%;
-  float: left;
+  text-align: center; !important
 }
 
 a

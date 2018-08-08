@@ -85,12 +85,46 @@ a:hover
   text-align: center;
 }
 
+.main 
+{
+  width: 100%;
+  height: 30%;
+  background-color: white;
+  color: black;
 
+}
 
+.head
+{
+ top: 50%; 
+ font-size: 45%;
+}
 
+.info-s
+{
+  top: 75%;  
+}
 
+.page2-commands
+{
+  width: 100%;
+  height: 30%;
+  background-color: black;
+  color: white;
+}
 
+.cmds-list
+{
+  list-style-type: none;
+  text-decoration: none;
+  top: 40%;  
+}
 
+.cmds
+{
+ margin: 7px;
+ list-style-type: none; 
+}
 
 
 

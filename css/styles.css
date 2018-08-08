@@ -8,6 +8,19 @@ body
   list-style-type: none;
 }
 
+nav
+{
+ -webkit-box-align: center;
+    -webkit-box-direction: reverse;
+    -webkit-box-flex: 1;
+    -webkit-box-orient: horizontal;
+    -webkit-box-pack: justify;
+    align-items: center;
+    flex: 1 1 auto;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    background-color: #23272A; 
+}
 header 
 {
   background-color: #23272A;
@@ -22,6 +35,7 @@ header
   box-shadow: 4px 4px 8px; 
   opacity: 1; 
 }
+
 
   .nav-li 
 {

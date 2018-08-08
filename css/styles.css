@@ -8,6 +8,11 @@ body
   list-style-type: none;
 }
 
+.gb-home
+{
+  float: middle;
+}
+
 nav
 {
  -webkit-box-align: center;

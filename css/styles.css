@@ -1,6 +1,7 @@
 body
 {
-  margin: 60px;
+  margin-top: 60px;
+  overflow: hidden;
 }
 *
 {
@@ -97,7 +98,7 @@ a:hover
 .head
 {
  top: 50%; 
- font-size: 45%;
+ font-size: 300%;
 }
 
 .info-s

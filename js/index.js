@@ -1,4 +1,4 @@
- const alert = alert("Website is currently undergoing heavy development, while commands are visible they do not look as we intend");
+ alert("Website is currently undergoing heavy development, while commands are visible they do not look as we intend");
 
 const commands = require("../html/index.js");
 
